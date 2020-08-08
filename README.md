@@ -1,2 +1,5 @@
 # Hello-world
-just a repsotory
+just a repsitory
+
+Hello
+i like playing golf and hanging out with friends.
